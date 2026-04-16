@@ -57,3 +57,6 @@ All with a plug-and-play Python backend, ready for integration in web or mobile 
 - 🌳 **Neo4j** – Knowledge graphs for medical concepts  
 - 📧 **EmailJS** – Automated, serverless email delivery  
 - 🏥 **Mendeley Data** – High-quality medical datasets
+
+
+Check out the project:<link> https://drive.google.com/file/d/1WiDQRqvVPEqjHuR78WXhwNR4HOoOdMZA/view?usp=drive_link</link>
